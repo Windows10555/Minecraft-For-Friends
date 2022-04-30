@@ -1,0 +1,75 @@
+{
+  "name": "1.7.10",
+  "author": "Windows10555",
+  "version": "0.1",
+  "description": "",
+  "fileApi": "https://windows10555.github.io/Minecraft-For-Friends",
+  "files": [
+    {
+      "path": "betterfps.txt",
+      "hash": "ce218988fb60cba858d200b69c7c6e7dcc514739"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "f0dc2243a250fbcabd018ea8f0b32a9e03421890"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "5cebbd950e8dfd612ac435b71589459e0578b330"
+    },
+    {
+      "path": "config/ProjectE/custom_emc.cfg",
+      "hash": "a0436ccb6b74cf4fddc455b5248ef33f1370aae6"
+    },
+    {
+      "path": "config/ProjectE/nbt_whitelist.cfg",
+      "hash": "3a03ef4ea5d06e54c8f51e158b499fd3a7aadea7"
+    },
+    {
+      "path": "config/ProjectE/ProjectE.cfg",
+      "hash": "46ad09c2e101c797fd6044c8762b368dc4f35577"
+    },
+    {
+      "path": "config/SlimeKnights/Mantle.cfg",
+      "hash": "a722faee10477bba6f25fdc4a6a3d0a73160ceb8"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "93077aee7566a733884793bd45f6ef42a7078611"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "91d3c244fc12f00962a906de20c9d5a0bdf7e8ce"
+    },
+    {
+      "path": "mods/BetterFps-1.0.1.jar",
+      "hash": "5f95cfaac2c48448be48150105e735323b6697a1"
+    },
+    {
+      "path": "mods/Mantle-1.7.10-0.3.2b.jar",
+      "hash": "56552968dc8df9a3ad0f909024d086f3748844dc"
+    },
+    {
+      "path": "mods/ProjectE-1.7.10-PE1.10.1.jar",
+      "hash": "b1c4927d708447cd8829e06b9fdbc8a2535b1c02"
+    },
+    {
+      "path": "FZJH字体包.zip",
+      "hash": "89440493dcb1cec9841fc1f0679258c6ed7c551d"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.7.10"
+    },
+    {
+      "id": "forge",
+      "version": "10.13.4.1614"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_E7"
+    }
+  ]
+}
